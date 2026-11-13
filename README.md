@@ -1,4 +1,7 @@
 # Taller-logica-de-programacion
+
+#Descripción
+
 Nombre: Laura Vanessa Quintero Rojas.
 Fecha de entrega: 13/11/2026
 Herramienta utilizada: Pseint
